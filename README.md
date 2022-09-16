@@ -16,7 +16,7 @@ I am a focused confident corporate communication specialist and dedicated entrep
 Birthdate : 02/17/1986
 Email : mmohale2017@gmail.com
 Phone : + (266) 580 881 17 / 620 881 17 
-Linkedin : John_Doe
+Linkedin : Matseliso Mohale - https://www.linkedin.com/in/matseliso-mohale-250561104/
 Address : Khubetsoana, Salang
           Maseru, Lesotho.
           
