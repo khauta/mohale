@@ -23,13 +23,13 @@ Address : Khubetsoana, Salang
 # My Expertise
 
 Professional Corporate Communication
-Lorem ipsum dolor sit consectetur.
+<br/>Business Customer Relationships | Idea & Plan presentations | Project Coordination | Corporate Events MC
 
 Entrepreneurship
-Lorem ipsum dolor sit consectetur.
+<br/>Established Mohale Media | Co-owner Of Technomath Pty Ltd | Executive board member of MPALE
 
 Digital Marketing
-voluptate commodi illo voluptatib.
+<br/>Professional Video & Audio cormecials | Brand Ambossandor | Social Media Influencer
 
 Actress
-voluptate commodi illo voluptatib.
+<br/>Film Producer | Director | Actor | Script Writer
