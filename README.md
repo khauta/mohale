@@ -58,3 +58,28 @@ LEAP (LIMKOKWING ENTREPRENEURSHIP ACCELARATION PLATFORM) - Interntion & Industry
 Presentation Skills <br/>
 
 She was previously working under Limkokwing Entrepreneurship Acceleration Platform (LEAP) department as a LEAP internship and Industry Assistant from February 2013 to February 2019. Since its inception in 2011, LEAP has had an extraordinary run, exhibiting an exemplary initiative to empower young entrepreneurs through incubation. Another vital function of LEAP is to maintain industry relationships with organizations in the professional body of Lesotho and provide students with the skills to master a business from ideation, drawing up business plans, implementation of plan and effective management of the business. It is achieved by providing facilities to Year 3 Semester 2 and Year 4 Semester 2 students from various programmes who qualify for the Internship Programme. The latter is achieved by continuous efforts to liaison with organisations in the industry.
+<br/>
+<h1> Education </h1>
+<br/>
+
+<h3>2015 – 2018</h3><br/>
+
+Limkokwing University of Creative Technology (Botswana)<br/>
+
+Master of Arts and Communication science.
+
+<h3>2008 – 2013</h3><br/>
+Limkokwing University of Creative Technology (Lesotho)<br/>
+
+BA (HONS) IN PROFESSIONAL COMMUNICATION.
+
+
+<h3>2005 – 2006</h3><br/>
+Computer Education & Training Technology (Lesotho)<br/>
+
+certificate in information technology.
+
+<h3>2001 – 2002</h3><br/>
+Abia High School<br/>
+
+CAMBRIDGE OVERSEAS CERTIFICATE.
