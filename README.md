@@ -83,3 +83,38 @@ certificate in information technology.
 Abia High School<br/>
 
 CAMBRIDGE OVERSEAS CERTIFICATE.
+
+
+
+
+# My Services
+<br/>
+<br/>
+
+<h3>Corporate Communication Strategy</h3><br/>
+
+Limkokwing University of Creative Technology (Botswana)<br/>
+
+Master of Arts and Communication science.
+
+<h3>Multimedia Production services</h3><br/>
+Limkokwing University of Creative Technology (Lesotho)<br/>
+
+BA (HONS) IN PROFESSIONAL COMMUNICATION.
+
+
+<h3>Digital Marketing Strategy</h3><br/>
+Computer Education & Training Technology (Lesotho)<br/>
+
+certificate in information technology.
+
+<h3>Business Oriented Research Projects</h3><br/>
+Abia High School<br/>
+
+CAMBRIDGE OVERSEAS CERTIFICATE.
+
+<h3>Public Relations & Brand Strategic Communication</h3><br/>
+Abia High School<br/>
+
+CAMBRIDGE OVERSEAS CERTIFICATE.
+
