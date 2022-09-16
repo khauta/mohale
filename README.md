@@ -33,3 +33,28 @@ Digital Marketing
 
 Actress
 <br/>Film Producer | Director | Actor | Script Writer
+
+# My Resume
+<h3> Experience </h3>
+<br/>
+<h4> 2020 - Present </h4> · 2 yrs 9 mons · Full-time <br/>
+Maseru, Lesotho
+<br/>
+Lecturer - Faculty of Communication, Media & Broadcasting <br/>
+<b> Matseliso Mohale </b>currently working under the Faculty of Communication, Media & BroadcastingLecturer under the Faculty of Communication, Media & Broadcasting
+<b>Skills</b>: Team Management · Proactive · Strategic Communications · Critical Thinking · Presentation Skills · Digital Communication · Emotional Intelligence · Conflict Resolution · Entrepreneurship · Higher Education · Leadership · Project Management · Media Production
+
+<br/>
+<h4> 2013 - 2020 </h4> · 7 yrs 2 mons <br/>
+Maseru, Lesotho
+<br/>
+LEAP (LIMKOKWING ENTREPRENEURSHIP ACCELARATION PLATFORM) - Interntion & Industry Assistant
+<b>Matseliso Mohale</b> 's previous employement at the afore mentioned position was to lias with the industry on behalf of the University in regard to students internships and placements in the industry to enable them to gain experience in the real work places. And also Incubation Supervisor (creating Limkokwing Entrepreneurship Acceleration Platform companies with students from different faculties depending on the nature of the company)
+
+<h4>Summary</h4>
+
+<b>Matseliso Mohale</b> is currently working at Limkokwing University of Creative Technology under the Faculty of Communication, Media and Broadcasting as a Lecturer- supporting the design, development and production of the study and teaching materials, and deliver in various modules. She ensures the efficient delivery of teaching programs according to the strategies, policies and procedures of Limkokwing University of Creative Technology. <br/>
+
+Presentation Skills <br/>
+
+She was previously working under Limkokwing Entrepreneurship Acceleration Platform (LEAP) department as a LEAP internship and Industry Assistant from February 2013 to February 2019. Since its inception in 2011, LEAP has had an extraordinary run, exhibiting an exemplary initiative to empower young entrepreneurs through incubation. Another vital function of LEAP is to maintain industry relationships with organizations in the professional body of Lesotho and provide students with the skills to master a business from ideation, drawing up business plans, implementation of plan and effective management of the business. It is achieved by providing facilities to Year 3 Semester 2 and Year 4 Semester 2 students from various programmes who qualify for the Internship Programme. The latter is achieved by continuous efforts to liaison with organisations in the industry.
