@@ -87,37 +87,64 @@ CAMBRIDGE OVERSEAS CERTIFICATE.
 
 
 
-# My Services
+# My Services 
 <br/>
+
+Corporate Communication Strategy<br/>
+
+Manages and orchestrate all internal and external communications for business and organizations, all while getting involved in implementing the same strategies to transmit coherence, credibility and ethics through:
+<ul>
+<li>Written Media</li>
+<li>Presentations</li>
+<li>Branding</li>
+</ul>
+<br/>
+Multimedia Production services <br/>
+
+Responsible for all research leading to relevant content creation and production. Coordinate and manage the production of the multimedia project in time and with full quality. <br/>The service encapasses the production of:
+<ul>
+<li>Radio Audio Adverts</li>
+<li>Video Adverts and Promotions</li>
+<li>Film Production</li>
+</ul>
 <br/>
 
-<h3>Corporate Communication Strategy</h3><br/>
+Digital Marketing Strategy <br/>
 
-Limkokwing University of Creative Technology (Botswana)<br/>
+Derives digital marketing strategies to advance the businesses/organizations' reach to its target audience. Utilizing social media and other digital channels like facebook, instagram, linkedin, youtube and blogging to convey promotional messaging and measure its impact through the customer journeys. <br/>Using the following:
+<ul>
+<li>Inbound and Outbound Digital Marketing</li>
+<li>B2B and B2C Marketing</li>
+<li>Social Media Influencing</li>
+</ul>
+<br/>
+Business Oriented Research Projects 
+<br/>
+Do the research for and towards organizational improvement. Involved in gathering comprehensive data and information of all areas of business and incorporating the same information for ensuring (1) maximum production and profit for business, (2) development and impact for non-profit organizations and (3) for resuscitated overall operational performance. <br/>The strategies include:
+<ul>
+<li>Quantitative & Qualitative Research</li> 
+<li>Issue or Goal based Research</li>
+<li>Provides Insights and Demographics (Trends & market demands)</li>
+</ul>
+<br/>
+Public Relations & Brand Strategic Communication <br/>
 
-Master of Arts and Communication science.
+Helping companies/organizations with means and ways of connecting with their intended audience and stakeholders to communicate their brand and message. Builds advocacy  of the company/organization's mission, using communication strategies, visual designs and tone of voice to depict the messages, goals and concepts of the organization. <br/>Benefits include:
+<ul>
+<li>Increased Sales and Impact</li>
+<li>Customer Retention and Brand Recognition</li>
+<li>Develop Distinct Brand</li>
+</ul>
+<br/>
 
-<h3>Multimedia Production services</h3><br/>
-Limkokwing University of Creative Technology (Lesotho)<br/>
+Communication Consultancy <br/>
 
-BA (HONS) IN PROFESSIONAL COMMUNICATION.
-
-
-<h3>Digital Marketing Strategy</h3><br/>
-Computer Education & Training Technology (Lesotho)<br/>
-
-certificate in information technology.
-
-<h3>Business Oriented Research Projects</h3><br/>
-Abia High School<br/>
-
-CAMBRIDGE OVERSEAS CERTIFICATE.
-
-<h3>Public Relations & Brand Strategic Communication</h3><br/>
-Abia High School<br/>
-
-CAMBRIDGE OVERSEAS CERTIFICATE.
-
+Assist corporations and organizations to determine what they need in terms of communication in order to operate efficiently. The service ensures that the client has everything needed to manage the communications efforts at an advanced level of business intelligence and elegance. <br/>These are some of the workflows: <br/>
+<ul>
+<li>Flexible Engagement Schedule </li>
+<li>On demand freelancing offerings</li>
+<li>Media PRO Plans</li>
+</ul>
 
 # Portfolio
 
