@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  background-color: #F8F8F8;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: clamp(.5rem, 5vw, 4rem);
+}
+
+.container {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+}
+
+img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  opacity: 0;
+  transform: scale(.8);
+  transition: all .3s ease-in-out;
+  filter: drop-shadow(0px 2px 6px #A9A9A9);
+}
+
+.fade-in {
+  opacity: 1;
+  transform: scale(1);
+}
